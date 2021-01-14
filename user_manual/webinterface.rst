@@ -133,4 +133,6 @@ Nextcloud用户界面包括以下区域和功能：
   * 你的双因子验证
   * Nextcloud 版本
 
-参见 :doc:`设置用户首选项` 部分以了解有关这些设置的更多信息。
+See :doc:`userpreferences` section to learn more about these settings.
+
+参见 :doc:`userpreferences` 部分以了解有关这些设置的更多信息。
