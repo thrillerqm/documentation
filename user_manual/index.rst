@@ -5,6 +5,7 @@ Nextcloud |version| 用户手册 简介
 ============================================
 
 **Welcome to Nextcloud: A safe home for all your data.**
+
 **欢迎来到 Nextcloud: 你所有数据的安全之家。**
 
 Nextcloud is open source file sync and share software for everyone from
