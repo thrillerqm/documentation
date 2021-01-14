@@ -1,6 +1,6 @@
-===============================================
-The Nextcloud Web interface | Nextcloud Web界面
-===============================================
+=================
+Nextcloud Web界面
+=================
 
 You can connect to your Nextcloud server using any Web browser. Just point it to
 your Nextcloud server URL (e.g. cloud.example.com) and enter your username and password:
