@@ -1,8 +1,9 @@
 ===========================================
-What's new for users in Nextcloud |version|
+Nextcloud 用户新功能 |version|
 ===========================================
 
 1. Easier way to select a new app:
+   更简单的方法来访问新的应用：
 
    .. figure:: images/apps_menu.png
       :alt: screenshot of apps menu at top-left of Nextcloud Web GUI
