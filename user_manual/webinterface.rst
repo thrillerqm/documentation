@@ -1,19 +1,28 @@
-=============================================
-The Nextcloud Web interface Nextcloud Web界面
-=============================================
+===========================
+The Nextcloud Web interface 
+===========================
+
+=================
+Nextcloud Web界面
+=================
 
 You can connect to your Nextcloud server using any Web browser. Just point it to
 your Nextcloud server URL (e.g. cloud.example.com) and enter your username and password:
+
 您可以使用任何 Web 浏览器连接到 Nextcloud 服务器。只需将其指向你的 Nextcloud 服务器 URL (例如 cloud.example.com 服务器) ，然后输入你的用户名和密码:
 
 .. figure:: images/login_page.png
      :alt: Nextcloud login screen.
 
-Web browser requirements Web浏览器要求
--------------------------------------
+Web browser requirements
+------------------------
+
+Web浏览器要求
+------------
 
 For the best experience with the Nextcloud web interface, we recommend that you use the 
 latest and supported version of a browser from this list:
+
 为了获得使用 Nextcloud Web界面的最佳体验，我们建议您使用以下列表中最新的、支持的浏览器版本:
 
 * Microsoft **Internet Explorer**
@@ -25,6 +34,7 @@ latest and supported version of a browser from this list:
 .. note:: If you want to use Nextcloud Talk you need to run Mozilla **Firefox** 52+
    or Google **Chrome**/Chromium 49+ to have the full experience with video calls and 
    screensharing. Google **Chrome**/Chromium requires a additional plugin for screensharing.
+
 .. note:: 如果你想使用Nextcloud Talk， 你需要运行Mozilla **Firefox** 52+
    或 Google **Chrome**/Chromium 49+ 来获得完整的视频通化和屏幕分享体验. Google **Chrome**/Chromium 需要一个额外的屏幕分享插件。 
 
