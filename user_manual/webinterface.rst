@@ -110,10 +110,10 @@ Nextcloud用户界面包括以下区域和功能：
   
 * **设置** 菜单 (9): 点击您的个人资料图片，位于搜索区域的右侧，以打开您的设置下拉菜单。你的设置页面提供了以下设置和功能:
 
-  * Links to download desktop and mobile apps | 下载桌面和移动应用的链接
-  * Server usage and space availability | 服务器使用情况和可用空间
-  * Password management | 密码管理
-  * Name, email, and profile picture settings | 用户名、电子邮件和个人资料图片设置
+  * Links to download desktop and mobile apps
+  * Server usage and space availability
+  * Password management
+  * Name, email, and profile picture settings
   * Manage connected browsers and devices
   * Group memberships
   * Interface language settings
