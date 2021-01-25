@@ -20,7 +20,7 @@ have your latest files with you wherever you are.
 
 Its usage is documented separately in the `Nextcloud Desktop Client Manual`_.
 
-其使用情况在 Nextcloud 桌面客户端手册中单独记录。
+其使用情况在 `Nextcloud Desktop Client Manual`_中单独记录。
 
 .. _`Nextcloud Desktop Client Manual`: https://docs.nextcloud.com/desktop/2.6
 .. _`Nextcloud Sync Client`: https://nextcloud.com/install/#install-clients
