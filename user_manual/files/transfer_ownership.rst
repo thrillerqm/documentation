@@ -1,9 +1,11 @@
-==================
-Transfer Ownership
-==================
+============================
+Transfer Ownership 转让所有权
+============================
 
 Users can transfer the ownership of files and folders to other users. Share 
 ownerships of those transfered files/folders will also be transferred.
+
+用户可以将文件和文件夹的所有权转让给其他用户。转让文件/文件夹的共享所有权也将被转让。
 
 #. Navigate to *Settings* > *Personal* > *Sharing* > *Files*.
 #. Click on *Choose file or folder to transfer* >> A file picker opens, showing all files and folders in the user's account.
